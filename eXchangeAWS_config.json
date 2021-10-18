@@ -1,0 +1,9 @@
+{
+	"change_days": 1,
+	"log_group": "name of log group",
+	"log_stream": "name of log stream within group",
+	"web_tag_name" : "ec2 instance tag name",
+	"web_tag_value" : "ex2 instance tag value",
+	"debug": "true"
+}
+
