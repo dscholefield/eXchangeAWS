@@ -1,6 +1,8 @@
 # eXchangeAWS
 Tool to use Python/Boto3 for detecting file changes on AWS
 
+use: python3 eXchangeAWS.py
+
 Connects to remote AWS instance using Python3/boto3 and:
 1. finds specific running EC2 instances with a given tag name=value pair
 2. executes a predefined command remotely and waits for the result (asynchronous)
